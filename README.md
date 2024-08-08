@@ -1,5 +1,7 @@
 # PhD Application Task
 
+Check this on my github: [task_2024](https://github.com/fernando080/task_2024)
+
 This repository contains the solution for a `task 2024.pdf` developed as part of the application. The primary solution is implemented using PyTorch, with additional voluntary attempts made using TensorFlow. 
 
 ## Directory Structure
